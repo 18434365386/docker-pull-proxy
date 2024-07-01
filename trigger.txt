@@ -1,1 +1,1 @@
-chivalry1314/dify-api:main registry.cn-hangzhou.aliyuncs.com/llm-lihw07/dify-api:202406250557
+langgenius/dify-api:0.6.11 registry.cn-hangzhou.aliyuncs.com/llm-lihw07/dify-api:0.6.11
