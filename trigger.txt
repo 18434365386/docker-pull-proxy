@@ -1,1 +1,1 @@
-langgenius/dify-api:0.6.11 registry.cn-hangzhou.aliyuncs.com/llm-lihw07/dify-api:0.6.11
+ubuntu/squid:latest registry.cn-hangzhou.aliyuncs.com/llm-lihw07/squid:latest
