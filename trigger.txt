@@ -1,1 +1,1 @@
-langgenius/dify-api:0.6.11 registry.cn-hangzhou.aliyuncs.com/llm-lihw07/dify-api:0.6.11
+docker.io/library/python:3.11-slim registry.cn-hangzhou.aliyuncs.com/llm-lihw07/python:3.11-slim
