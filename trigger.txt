@@ -1,1 +1,1 @@
-docker.io/library/python:3.11-slim registry.cn-hangzhou.aliyuncs.com/llm-lihw07/python:3.11-slim
+docker.io/library/alpine/socat registry.cn-hangzhou.aliyuncs.com/llm-lihw07/alpine/socat
