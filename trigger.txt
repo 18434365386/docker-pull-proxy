@@ -1,1 +1,1 @@
-docker.io/library/airbyte/init:0.63.8 registry.cn-hangzhou.aliyuncs.com/llm-lihw07/airbyte/init:0.63.8
+docker.io/airbyte/init:0.63.8 registry.cn-hangzhou.aliyuncs.com/llm-lihw07/airbyte/init:0.63.8
